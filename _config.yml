@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Sigit's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sigit S. Nugroho"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gitsigit.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gitsigit.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Sigit S. Nugroho"
+  avatar           : "2022-06-03_09-41-49_713~2.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
