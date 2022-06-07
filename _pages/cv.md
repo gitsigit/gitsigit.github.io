@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.Soc.Sci. in International Relations, University of Indonesia, 2015
-* M.Sc. in Strategic Studies, Nanyang Technological Univeersity , 2021
+* B. Soc. Sci. in International Relations, University of Indonesia, 2015
+* M. Sc. in Strategic Studies, Nanyang Technological Univeersity , 2021
 
 Work experience
 ======
-* 2019: Research Associate
-  * S. Rajaratnam School of International Studies, Nanyang Technological University
-  * Supervisor: Associate Professor Leonard C. Sebastian, Ph.D. 
-
 * 2021: Project Manager
   * Valiance, Pacmann AI
+
+* 2019: Research Associate
+  * S. Rajaratnam School of International Studies, Nanyang Technological University
   
 <!-- Skills
 ======
