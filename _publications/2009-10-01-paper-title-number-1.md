@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Kepentingan Strategis Indonesia dan Prospek Hubungan Bilateral dengan Sudan Selatan."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2015-10-01-kepentingan-strategis-indonesia-dan-prospek-hubungan-bilateral-dengan-sudan-selatan
+excerpt: 'In this paper, Iis Gindarsah and I explores the prospect of Indonesia's strategic relationship with South Sudan.'
+date: 2015-12-01
+venue: 'Analisis CSIS'
+paperurl: ''
+citation: 'Gindasah I. & Nugroho, Sigit S. (2015). &quot;Kepentingan Strategis Indonesia dan Prospek Hubungan Bilateral dengan Sudan Selatan.&quot; <i>Analisis CSIS</i>. 44(4).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, Iis Gindarsah and I explores the prospect of Indonesia's strategic relationship with South Sudan.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://catalog.danlevlibrary.net/index.php?p=show_detail&id=14979&keywords=)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Gindasah I. & Nugroho, Sigit S. (2015). &quot;Kepentingan Strategis Indonesia dan Prospek Hubungan Bilateral dengan Sudan Selatan.&quot; <i>Analisis CSIS</i>. 44(4).
