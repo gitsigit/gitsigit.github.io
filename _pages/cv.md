@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B. Soc. Sci. in International Relations, University of Indonesia, 2015
-* M. Sc. in Strategic Studies, Nanyang Technological Univeersity , 2021
+* M. Sc. in Strategic Studies, Nanyang Technological University , 2021
 
 Work experience
 ======
