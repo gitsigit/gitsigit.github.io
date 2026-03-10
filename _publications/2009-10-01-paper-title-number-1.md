@@ -8,6 +8,7 @@ venue: 'Asian Journal of Comparative Politics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Haripin, M., Priamarizki, A., & Nugroho, S. S. (2023). 8(1), 164-183.&quot;Quasi-civilian defence minister and civilian authority: The case study of Indonesia’s Ministry of Defence during Joko Widodo’s presidency.&quot; <i>Asian Journal of Comparative Politics</i>. 8(1).'
 ---
+
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://journals.sagepub.com/doi/abs/10.1177/20578911221141016)
